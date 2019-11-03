@@ -4,7 +4,7 @@
     "contentApiKey": "3f08efb66eb08147d908511c8d"
   },
   "production": {
-    "apiUrl": "http://localhost:2369",
+    "apiUrl": "http://tuk-tuk.netlify.com",
     "contentApiKey": "3f08efb66eb08147d908511c8d"
   }
 }
